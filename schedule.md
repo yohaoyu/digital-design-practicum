@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: minimal
 title: Schedule
 description: The weekly event schedule.
 ---
